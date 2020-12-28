@@ -1,7 +1,7 @@
 # CloudflareWorkers
 A project using HTML rewriter from cloudflare to determine latency and verify the CDN network of cloudflare
 
-The project can be viewed on https://my-worker.pranshu.workers.dev/
+The project can be viewed at https://my-worker.pranshu.workers.dev/ and use url: https://my-worker.pranshu.workers.dev/links for API endpoint.
 
 # Requirements of the project
 
