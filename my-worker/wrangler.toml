@@ -1,0 +1,7 @@
+name = "my-worker"
+account_id = "15f2927765145bcab0ec24175725b22a"
+workers_dev = true
+route = ""
+zone_id = ""
+type = "webpack"
+
